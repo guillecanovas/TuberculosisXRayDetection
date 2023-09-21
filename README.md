@@ -2,7 +2,7 @@
 
 This repository hosts a machine learning-based diagnostic system designed to detect Tuberculosis (TB) in patients using a dataset of chest X-ray images.
 
-## Overview:
+## Key Features:
 
 - **Objective:** The primary goal of this project is to develop an accurate diagnostic tool for detecting Tuberculosis (TB) by analyzing chest X-ray images.
 
